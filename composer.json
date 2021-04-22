@@ -1,6 +1,7 @@
 
 {
   "name": "sergeyssd777/voyager-themes",
+  "version": "1.0.0",
   "description": "This hook will add support for Voyager front-end themes",
   "require": {
     "larapack/hooks": "~1.0"
